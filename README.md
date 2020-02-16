@@ -1,6 +1,6 @@
 # Bayesian Inference
 
-**Repository ongoing**
+** ongoing Repository **
 
 In this repository I am presenting different approaches for making bayesian inference on statistical models: from Monte Carlo methods to the parametric approach like variational inference they allow to approximate the distributions of our parameters given the data.
 
@@ -11,7 +11,7 @@ Monte Carlo Markov Chains can be used to sample from the posterior meaning the d
 In case of numerous parameters, insuring the convergence of the Markov chains takes a lot of time to converge, some extensions of the methods can be made to scale to a larger number of parameters. However in case of a higher number of parameters some methods other methods can be used to approximate these distributions
 
 ## Introduction
-The first notebook will present the basic of Bayesian inference and simple cases to present the approach, this notebook will apply the concept on a regression setting.
+The [first notebook will present the basic of Bayesian inference](https://github.com/williampiat3/BayesianInference/blob/master/introduction.ipynb) and simple cases to present the approach, this notebook will apply the concept on a regression setting.
 
 ## Scaling up MCMC
 The second notebook will present extension on how to improve the simple MCMC so as to compute more efficiently the distributions
