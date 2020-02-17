@@ -1,6 +1,6 @@
 # Bayesian Inference
 
-** ongoing Repository **
+**Ongoing Repository**
 
 In this repository I am presenting different approaches for making bayesian inference on statistical models: from Monte Carlo methods to the parametric approach like variational inference they allow to approximate the distributions of our parameters given the data.
 
